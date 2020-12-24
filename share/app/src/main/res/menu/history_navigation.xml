@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_bluereceive"
+        android:id="@+id/navReceived"
+        android:title="Received">
+    </item>
+    <item
+        android:icon="@drawable/ic_send_blue"
+        android:id="@+id/navSent"
+        android:title="Sent">
+    </item>
+</menu>

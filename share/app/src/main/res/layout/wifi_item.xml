@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:orientation="horizontal"
+    android:background="#3BFFFFFF"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_marginLeft="25dp"
+    android:layout_marginRight="25dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tvName"
+        android:layout_centerVertical="true"
+        android:textSize="13dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="@string/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </TextView>
+
+    <Button
+        android:visibility="gone"
+        android:background="@drawable/setting_up_btn_onclick"
+        android:textAllCaps="false"
+        android:text="Send"
+        android:id="@+id/btnConnect"
+        android:layout_alignParentRight="true"
+        android:layout_width="50dp"
+        android:layout_height="50dp">
+    </Button>
+
+</RelativeLayout>

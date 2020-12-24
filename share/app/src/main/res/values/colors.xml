@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorLightBlue">#9ABAF3</color>
+    <color name="colorWifi">#8FB3F3</color>
+    <color name="colorProgress">#DDD</color>
+    <color name="colorPrimary">#7998EA</color>
+    <color name="colorPrimaryDark">#6162F7</color>
+    <color name="backGroundColor">#E6EEF8</color>
+    <color name="colorAccent">#6162F7</color>
+    <color name="colorBlack">#1D1C1C</color>
+    <color name="colorLightBlack">#838181</color>
+    <color name="white">#ffffff</color>
+    <color name="blueDark">#20049C</color>
+</resources>
